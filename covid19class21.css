@@ -2,7 +2,7 @@ body{
     background-color: blanchedalmond;
 }
 div{
-    
+    text-align:center;
 font-size: 21px;
 margin: 20px;
 }
@@ -17,8 +17,4 @@ margin: 20px;
 #death{
     color:red;
     font-size: 30px;
-}
-img{
-    
-    margin-left: 620px;
 }
