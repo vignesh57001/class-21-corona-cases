@@ -1,0 +1,24 @@
+body{
+    background-color: blanchedalmond;
+}
+div{
+    
+font-size: 21px;
+margin: 20px;
+}
+#active{
+    color:blue;
+    font-size: 30px;
+}
+#recovered{
+    color:blueviolet;
+    font-size: 30px;
+}
+#death{
+    color:red;
+    font-size: 30px;
+}
+img{
+    align-items: center;
+    padding-left: 650px;
+}
